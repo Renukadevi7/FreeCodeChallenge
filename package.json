@@ -1,0 +1,19 @@
+{
+  "name": "freecodechallengeapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Renukadevi7/FreeCodeChallenge.git"
+  },
+  "author": "renukadevi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Renukadevi7/FreeCodeChallenge/issues"
+  },
+  "homepage": "https://github.com/Renukadevi7/FreeCodeChallenge#readme"
+}
